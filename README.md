@@ -10,4 +10,4 @@ Techniques used:
 - voronoi heuristic
 - articulation points calculation
 
-![alt text](light-riders.png "Light Riders")
+![alt text](light-riders.PNG "Light Riders")
